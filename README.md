@@ -1,1 +1,3 @@
-# SQLAnalysis-Retail-Sales-Trends-Customer-Segmentation-and-Product-Performance
+# Analyze sales data for a retail company, including sales trends, customer segmentation, and product performance 
+
+
