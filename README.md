@@ -1,4 +1,4 @@
-# Analyze sales data for a retail company, including sales trends, customer segmentation, and product performance 
+# Analyze sales data for a company including customer segmentation, and product performance 
 
 The analysis leverages the Maven Analytics dataset, which contains comprehensive retail sales data.
 
